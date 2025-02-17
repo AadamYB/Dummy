@@ -1,3 +1,3 @@
 def testing():
-    variable = 'Hello World'
+    variable = 'Hello CI/CD'
     print(variable)
